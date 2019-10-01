@@ -1,4 +1,4 @@
-# Music Info Application 
+# Music Info Application [DEMO](https://musinfo.herokuapp.com)
 ## Tech 
 1. React (react-router)
 2. Axios 
